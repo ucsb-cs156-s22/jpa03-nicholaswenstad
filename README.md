@@ -1,7 +1,7 @@
 # demo-spring-react-example-v2: dsre-v2
 
 Storybook is here:
-* REPO: https://github.com/ucsb-cs156-s22/jpa03-nicholaswenstad
+* github repo: https://github.com/ucsb-cs156-s22/jpa03-nicholaswenstad
 * Production: https://ucsb-cs156-s22.github.io/jpa03-nicholaswenstad-docs/
 * QA: https://ucsb-cs156-s22.github.io/jpa03-nicholaswenstad-docs-qa/
 
